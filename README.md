@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋 I'm Murat Can
 
-<!--
-**muratkaraogluu/muratkaraogluu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a Computer Engineering student at Gebze Technical University.
+🌱 I'm currently expanding my knowledge in **C++**, Object-Oriented Programming, and Data Structures.
+🎯 My goal is to build robust software systems and develop clean, efficient code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+Languages: C, C++, Verilog, Data Structures
+Tools: Git, GitHub, Cursor IDE, VS Code, Linux
+Core Focus: Object-Oriented Programming, Algorithms, Digital Logic Design
+
+---
+
+### 📊 GitHub Stats
+![Murat's GitHub stats](https://github-readme-stats.vercel.app/api?username=muratkaraogluu&show_icons=true&theme=radical)
