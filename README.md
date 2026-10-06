@@ -7,9 +7,9 @@
 ---
 
 ### 🛠️ Tech Stack & Tools
-Languages: C, C++, Verilog, Data Structures
-Tools: Git, GitHub, Cursor IDE, VS Code, Linux
-Core Focus: Object-Oriented Programming, Algorithms, Digital Logic Design
+* **Languages:** C, C++, Verilog, Data Structures
+* **Tools:** Git, GitHub, Cursor IDE, VS Code, Linux
+* **Core Focus:** Object-Oriented Programming, Algorithms, Digital Logic Design
 
 ---
 
